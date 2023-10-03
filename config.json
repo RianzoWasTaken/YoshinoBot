@@ -1,20 +1,20 @@
 {
-  "ownerNumber": "0@s.whatsapp.net",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerNumber": "082393307733@s.whatsapp.net",
+  "ownerName": "Rn",
+  "botName": "AdiraMD™",
   "packname": "follow",
-  "author": "@riycoders",
+  "author": "@ADIRA",
   "pathimg": "./media/yoshino.jpg",
   "apikey": {
     "caliph": "caliphkey"
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
+    "yt": "https://youtube.com/@rianzoitsme",
+    "ig": "https://instagram.com/",
     "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
   },
   "donasi": {
-	"dana": "081575886399",
+	"dana": "082393307733",
 	"gopay": "081575886399"
   },
   "gamewaktu": 90,
